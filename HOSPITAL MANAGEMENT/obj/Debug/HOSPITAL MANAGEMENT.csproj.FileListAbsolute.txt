@@ -1,0 +1,25 @@
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\bin\Debug\HOSPITAL MANAGEMENT.exe.config
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\bin\Debug\HOSPITAL MANAGEMENT.exe
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\bin\Debug\HOSPITAL MANAGEMENT.pdb
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\obj\Debug\HOSPITAL MANAGEMENT.csproj.AssemblyReference.cache
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\obj\Debug\HOSPITAL_MANAGEMENT.Properties.Resources.resources
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\obj\Debug\HOSPITAL MANAGEMENT.csproj.GenerateResource.cache
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\obj\Debug\HOSPITAL MANAGEMENT.csproj.CoreCompileInputs.cache
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\obj\Debug\HOSPITAL MANAGEMENT.exe
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\obj\Debug\HOSPITAL MANAGEMENT.pdb
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\obj\Debug\HOSPITAL.28505A8D.Up2Date
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\bin\Debug\Guna.UI.dll
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\obj\Debug\HOSPITAL_MANAGEMENT.Form3.resources
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\obj\Debug\HOSPITAL_MANAGEMENT.Doctors.resources
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\obj\Debug\HOSPITAL_MANAGEMENT.admin_login.resources
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\obj\Debug\HOSPITAL_MANAGEMENT.Patients.resources
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\obj\Debug\HOSPITAL_MANAGEMENT.Diagnosis.resources
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\obj\Debug\HOSPITAL_MANAGEMENT.Medicines.resources
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\obj\Debug\HOSPITAL_MANAGEMENT.User_Login.resources
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\obj\Debug\HOSPITAL_MANAGEMENT.Vehicles.resources
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\obj\Debug\HOSPITAL_MANAGEMENT.Transactions.resources
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\obj\Debug\HOSPITAL_MANAGEMENT.Medicine.resources
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\obj\Debug\HOSPITAL_MANAGEMENT.Patient_Diagnosis.resources
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\obj\Debug\HOSPITAL_MANAGEMENT.Patient.resources
+C:\Users\anujk\source\repos\HOSPITAL MANAGEMENT\HOSPITAL MANAGEMENT\obj\Debug\HOSPITAL_MANAGEMENT.Machines.resources

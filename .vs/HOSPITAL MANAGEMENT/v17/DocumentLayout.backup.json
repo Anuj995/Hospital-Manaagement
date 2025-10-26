@@ -1,0 +1,443 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|c:\\users\\anujk\\source\\repos\\hospital management\\hospital management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\medicines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\medicines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\machines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\machines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\medicines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\medicines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\machines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\machines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\patient diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\patient diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\SQLQuery6.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery6.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\patient diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\patient diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\hospital management\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D863407-2907-4F89-9A69-4B76EE4E8326}|HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT.csproj|solutionrelative:hospital management\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Form1.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Form1.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Form1.cs",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Form1.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADwv0QAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:15:42.39Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Diagnosis.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Diagnosis.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Diagnosis.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Diagnosis.cs [Design]",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Diagnosis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:14:05.556Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Medicines.cs",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Medicines.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Medicines.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Medicines.cs",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Medicines.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:39:09.533Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Machines.cs",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Machines.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Machines.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Machines.cs",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Machines.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:35:08.349Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Doctors.cs",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Doctors.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Doctors.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Doctors.cs",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Doctors.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAADwv2sAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:31:28.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Program.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Program.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Program.cs",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:28:12.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Form3.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Form3.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Form3.cs [Design]",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:59:08.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Form1.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Form1.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Form1.cs [Design]",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T10:48:52.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Form2.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Form2.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Form2.cs [Design]",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:03:45.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Form2.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Form2.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Form2.cs",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Form2.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:15:45.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Medicines.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Medicines.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Medicines.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Medicines.cs [Design]",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Medicines.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:28:01.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Doctors.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Doctors.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Doctors.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Doctors.cs [Design]",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Doctors.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:23:26.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Machines.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Machines.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Machines.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Machines.cs [Design]",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Machines.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:27:02.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Diagnosis.cs",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Diagnosis.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Diagnosis.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Diagnosis.cs",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Diagnosis.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAcwMUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:36:29.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Medicine.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Medicine.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Medicine.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Medicine.cs [Design]",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Medicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:18:12.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Vehicles.cs",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Vehicles.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Vehicles.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Vehicles.cs",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Vehicles.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAgwJkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:32:53.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Vehicles.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Vehicles.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Vehicles.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Vehicles.cs [Design]",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Vehicles.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:28:12.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Transactions.cs",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Transactions.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Transactions.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Transactions.cs",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Transactions.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAgwKMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:22:57.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Transactions.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Transactions.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Transactions.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Transactions.cs [Design]",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Transactions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:18:58.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Patients.cs",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Patients.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Patients.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Patients.cs",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Patients.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAgwKcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:34:23.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Patients.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Patients.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Patients.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Patients.cs [Design]",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Patients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:19:57.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Patient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Patient.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Patient.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Patient.cs [Design]",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Patient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:29:26.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Patient Diagnosis.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Patient Diagnosis.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Patient Diagnosis.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Patient Diagnosis.cs [Design]",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Patient Diagnosis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:38:12.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SQLQuery6.sql",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\SQLQuery6.sql",
+              "RelativeDocumentMoniker": "SQLQuery6.sql",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\SQLQuery6.sql",
+              "RelativeToolTip": "SQLQuery6.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-06T15:47:10.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Patient Diagnosis.cs",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Patient Diagnosis.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Patient Diagnosis.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Patient Diagnosis.cs",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Patient Diagnosis.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAswCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:43:07.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Medicine.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Medicine.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Medicine.cs",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Medicine.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwHcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:22:27.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Form3.cs",
+              "RelativeDocumentMoniker": "HOSPITAL MANAGEMENT\\Form3.cs",
+              "ToolTip": "C:\\Users\\anujk\\source\\repos\\HOSPITAL MANAGEMENT\\HOSPITAL MANAGEMENT\\Form3.cs",
+              "RelativeToolTip": "HOSPITAL MANAGEMENT\\Form3.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAD4vy8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:29:10.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

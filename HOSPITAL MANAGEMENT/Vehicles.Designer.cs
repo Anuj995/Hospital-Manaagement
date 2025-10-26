@@ -1,0 +1,981 @@
+﻿namespace HOSPITAL_MANAGEMENT
+{
+    partial class Vehicles
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Vehicles));
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.gunaAdvenceButton3 = new Guna.UI.WinForms.GunaAdvenceButton();
+            this.gunaAdvenceButton1 = new Guna.UI.WinForms.GunaAdvenceButton();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.btnReload = new Guna.UI.WinForms.GunaAdvenceButton();
+            this.btnDelete = new Guna.UI.WinForms.GunaAdvenceButton();
+            this.btnUpdate = new Guna.UI.WinForms.GunaAdvenceButton();
+            this.btnAdd = new Guna.UI.WinForms.GunaAdvenceButton();
+            this.txtPassword = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.txtYearsOfExperience = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.txtDoctorName = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.txtDoctorId = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.btnLogout = new Guna.UI.WinForms.GunaAdvenceButton();
+            this.btnMedicine = new Guna.UI.WinForms.GunaAdvenceButton();
+            this.btndiagnosis = new Guna.UI.WinForms.GunaAdvenceButton();
+            this.btnPatient = new Guna.UI.WinForms.GunaAdvenceButton();
+            this.btnDoctors = new Guna.UI.WinForms.GunaAdvenceButton();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.close = new System.Windows.Forms.PictureBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.txtDriverNumber = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.CbVehicleType = new System.Windows.Forms.ComboBox();
+            this.txtDriverName = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.gunaAdvenceButton2 = new Guna.UI.WinForms.GunaAdvenceButton();
+            this.btnDel = new Guna.UI.WinForms.GunaAdvenceButton();
+            this.gunaAdvenceButton4 = new Guna.UI.WinForms.GunaAdvenceButton();
+            this.gunaAdvenceButton5 = new Guna.UI.WinForms.GunaAdvenceButton();
+            this.txtVehicleId = new Bunifu.Framework.UI.BunifuMaterialTextbox();
+            this.DGVVehicles = new Guna.UI.WinForms.GunaDataGridView();
+            this.gunaAdvenceButton6 = new Guna.UI.WinForms.GunaAdvenceButton();
+            this.panel1.SuspendLayout();
+            this.panel3.SuspendLayout();
+            this.panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.close)).BeginInit();
+            this.panel4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.DGVVehicles)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.Color.DarkOliveGreen;
+            this.panel1.Controls.Add(this.gunaAdvenceButton6);
+            this.panel1.Controls.Add(this.gunaAdvenceButton3);
+            this.panel1.Controls.Add(this.gunaAdvenceButton1);
+            this.panel1.Controls.Add(this.panel3);
+            this.panel1.Controls.Add(this.btnLogout);
+            this.panel1.Controls.Add(this.btnMedicine);
+            this.panel1.Controls.Add(this.btndiagnosis);
+            this.panel1.Controls.Add(this.btnPatient);
+            this.panel1.Controls.Add(this.btnDoctors);
+            this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(275, 881);
+            this.panel1.TabIndex = 2;
+            // 
+            // gunaAdvenceButton3
+            // 
+            this.gunaAdvenceButton3.AnimationHoverSpeed = 0.07F;
+            this.gunaAdvenceButton3.AnimationSpeed = 0.03F;
+            this.gunaAdvenceButton3.BaseColor = System.Drawing.Color.DarkOliveGreen;
+            this.gunaAdvenceButton3.BorderColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton3.CheckedBaseColor = System.Drawing.Color.Gray;
+            this.gunaAdvenceButton3.CheckedBorderColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton3.CheckedForeColor = System.Drawing.Color.White;
+            this.gunaAdvenceButton3.CheckedImage = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceButton3.CheckedImage")));
+            this.gunaAdvenceButton3.CheckedLineColor = System.Drawing.Color.DimGray;
+            this.gunaAdvenceButton3.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.gunaAdvenceButton3.FocusedColor = System.Drawing.Color.Empty;
+            this.gunaAdvenceButton3.Font = new System.Drawing.Font("Corbel", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.gunaAdvenceButton3.ForeColor = System.Drawing.Color.White;
+            this.gunaAdvenceButton3.Image = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceButton3.Image")));
+            this.gunaAdvenceButton3.ImageSize = new System.Drawing.Size(20, 20);
+            this.gunaAdvenceButton3.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.gunaAdvenceButton3.Location = new System.Drawing.Point(3, 448);
+            this.gunaAdvenceButton3.Name = "gunaAdvenceButton3";
+            this.gunaAdvenceButton3.OnHoverBaseColor = System.Drawing.SystemColors.Highlight;
+            this.gunaAdvenceButton3.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton3.OnHoverForeColor = System.Drawing.Color.White;
+            this.gunaAdvenceButton3.OnHoverImage = null;
+            this.gunaAdvenceButton3.OnHoverLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.gunaAdvenceButton3.OnPressedColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton3.Size = new System.Drawing.Size(269, 42);
+            this.gunaAdvenceButton3.TabIndex = 10;
+            this.gunaAdvenceButton3.Text = "Transactions";
+            this.gunaAdvenceButton3.Click += new System.EventHandler(this.gunaAdvenceButton3_Click);
+            // 
+            // gunaAdvenceButton1
+            // 
+            this.gunaAdvenceButton1.AnimationHoverSpeed = 0.07F;
+            this.gunaAdvenceButton1.AnimationSpeed = 0.03F;
+            this.gunaAdvenceButton1.BaseColor = System.Drawing.Color.DarkOliveGreen;
+            this.gunaAdvenceButton1.BorderColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton1.CheckedBaseColor = System.Drawing.Color.Gray;
+            this.gunaAdvenceButton1.CheckedBorderColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton1.CheckedForeColor = System.Drawing.Color.White;
+            this.gunaAdvenceButton1.CheckedImage = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceButton1.CheckedImage")));
+            this.gunaAdvenceButton1.CheckedLineColor = System.Drawing.Color.DimGray;
+            this.gunaAdvenceButton1.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.gunaAdvenceButton1.FocusedColor = System.Drawing.Color.Empty;
+            this.gunaAdvenceButton1.Font = new System.Drawing.Font("Corbel", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.gunaAdvenceButton1.ForeColor = System.Drawing.Color.White;
+            this.gunaAdvenceButton1.Image = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceButton1.Image")));
+            this.gunaAdvenceButton1.ImageSize = new System.Drawing.Size(20, 20);
+            this.gunaAdvenceButton1.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.gunaAdvenceButton1.Location = new System.Drawing.Point(0, 391);
+            this.gunaAdvenceButton1.Name = "gunaAdvenceButton1";
+            this.gunaAdvenceButton1.OnHoverBaseColor = System.Drawing.SystemColors.Highlight;
+            this.gunaAdvenceButton1.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton1.OnHoverForeColor = System.Drawing.Color.White;
+            this.gunaAdvenceButton1.OnHoverImage = null;
+            this.gunaAdvenceButton1.OnHoverLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.gunaAdvenceButton1.OnPressedColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton1.Size = new System.Drawing.Size(269, 42);
+            this.gunaAdvenceButton1.TabIndex = 7;
+            this.gunaAdvenceButton1.Text = "Vehicles";
+            // 
+            // panel3
+            // 
+            this.panel3.Controls.Add(this.btnReload);
+            this.panel3.Controls.Add(this.btnDelete);
+            this.panel3.Controls.Add(this.btnUpdate);
+            this.panel3.Controls.Add(this.btnAdd);
+            this.panel3.Controls.Add(this.txtPassword);
+            this.panel3.Controls.Add(this.txtYearsOfExperience);
+            this.panel3.Controls.Add(this.txtDoctorName);
+            this.panel3.Controls.Add(this.txtDoctorId);
+            this.panel3.Location = new System.Drawing.Point(275, 109);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(1361, 239);
+            this.panel3.TabIndex = 6;
+            // 
+            // btnReload
+            // 
+            this.btnReload.AnimationHoverSpeed = 0.07F;
+            this.btnReload.AnimationSpeed = 0.03F;
+            this.btnReload.BackColor = System.Drawing.Color.Transparent;
+            this.btnReload.BaseColor = System.Drawing.Color.DarkOliveGreen;
+            this.btnReload.BorderColor = System.Drawing.Color.Black;
+            this.btnReload.CheckedBaseColor = System.Drawing.Color.Gray;
+            this.btnReload.CheckedBorderColor = System.Drawing.Color.Black;
+            this.btnReload.CheckedForeColor = System.Drawing.Color.White;
+            this.btnReload.CheckedImage = ((System.Drawing.Image)(resources.GetObject("btnReload.CheckedImage")));
+            this.btnReload.CheckedLineColor = System.Drawing.Color.DimGray;
+            this.btnReload.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.btnReload.FocusedColor = System.Drawing.Color.Empty;
+            this.btnReload.Font = new System.Drawing.Font("Corbel", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnReload.ForeColor = System.Drawing.Color.White;
+            this.btnReload.Image = ((System.Drawing.Image)(resources.GetObject("btnReload.Image")));
+            this.btnReload.ImageSize = new System.Drawing.Size(20, 20);
+            this.btnReload.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.btnReload.Location = new System.Drawing.Point(857, 156);
+            this.btnReload.Name = "btnReload";
+            this.btnReload.OnHoverBaseColor = System.Drawing.SystemColors.Highlight;
+            this.btnReload.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.btnReload.OnHoverForeColor = System.Drawing.Color.White;
+            this.btnReload.OnHoverImage = null;
+            this.btnReload.OnHoverLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.btnReload.OnPressedColor = System.Drawing.Color.Black;
+            this.btnReload.Radius = 20;
+            this.btnReload.Size = new System.Drawing.Size(167, 42);
+            this.btnReload.TabIndex = 9;
+            this.btnReload.Text = "Reload";
+            this.btnReload.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // btnDelete
+            // 
+            this.btnDelete.AnimationHoverSpeed = 0.07F;
+            this.btnDelete.AnimationSpeed = 0.03F;
+            this.btnDelete.BackColor = System.Drawing.Color.Transparent;
+            this.btnDelete.BaseColor = System.Drawing.Color.DarkOliveGreen;
+            this.btnDelete.BorderColor = System.Drawing.Color.Black;
+            this.btnDelete.CheckedBaseColor = System.Drawing.Color.Gray;
+            this.btnDelete.CheckedBorderColor = System.Drawing.Color.Black;
+            this.btnDelete.CheckedForeColor = System.Drawing.Color.White;
+            this.btnDelete.CheckedImage = ((System.Drawing.Image)(resources.GetObject("btnDelete.CheckedImage")));
+            this.btnDelete.CheckedLineColor = System.Drawing.Color.DimGray;
+            this.btnDelete.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.btnDelete.FocusedColor = System.Drawing.Color.Empty;
+            this.btnDelete.Font = new System.Drawing.Font("Corbel", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDelete.ForeColor = System.Drawing.Color.White;
+            this.btnDelete.Image = ((System.Drawing.Image)(resources.GetObject("btnDelete.Image")));
+            this.btnDelete.ImageSize = new System.Drawing.Size(20, 20);
+            this.btnDelete.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.btnDelete.Location = new System.Drawing.Point(650, 156);
+            this.btnDelete.Name = "btnDelete";
+            this.btnDelete.OnHoverBaseColor = System.Drawing.SystemColors.Highlight;
+            this.btnDelete.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.btnDelete.OnHoverForeColor = System.Drawing.Color.White;
+            this.btnDelete.OnHoverImage = null;
+            this.btnDelete.OnHoverLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.btnDelete.OnPressedColor = System.Drawing.Color.Black;
+            this.btnDelete.Radius = 20;
+            this.btnDelete.Size = new System.Drawing.Size(167, 42);
+            this.btnDelete.TabIndex = 10;
+            this.btnDelete.Text = "Delete";
+            this.btnDelete.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // btnUpdate
+            // 
+            this.btnUpdate.AnimationHoverSpeed = 0.07F;
+            this.btnUpdate.AnimationSpeed = 0.03F;
+            this.btnUpdate.BackColor = System.Drawing.Color.Transparent;
+            this.btnUpdate.BaseColor = System.Drawing.Color.DarkOliveGreen;
+            this.btnUpdate.BorderColor = System.Drawing.Color.Black;
+            this.btnUpdate.CheckedBaseColor = System.Drawing.Color.Gray;
+            this.btnUpdate.CheckedBorderColor = System.Drawing.Color.Black;
+            this.btnUpdate.CheckedForeColor = System.Drawing.Color.White;
+            this.btnUpdate.CheckedImage = ((System.Drawing.Image)(resources.GetObject("btnUpdate.CheckedImage")));
+            this.btnUpdate.CheckedLineColor = System.Drawing.Color.DimGray;
+            this.btnUpdate.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.btnUpdate.FocusedColor = System.Drawing.Color.Empty;
+            this.btnUpdate.Font = new System.Drawing.Font("Corbel", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnUpdate.ForeColor = System.Drawing.Color.White;
+            this.btnUpdate.Image = ((System.Drawing.Image)(resources.GetObject("btnUpdate.Image")));
+            this.btnUpdate.ImageSize = new System.Drawing.Size(20, 20);
+            this.btnUpdate.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.btnUpdate.Location = new System.Drawing.Point(452, 156);
+            this.btnUpdate.Name = "btnUpdate";
+            this.btnUpdate.OnHoverBaseColor = System.Drawing.SystemColors.Highlight;
+            this.btnUpdate.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.btnUpdate.OnHoverForeColor = System.Drawing.Color.White;
+            this.btnUpdate.OnHoverImage = null;
+            this.btnUpdate.OnHoverLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.btnUpdate.OnPressedColor = System.Drawing.Color.Black;
+            this.btnUpdate.Radius = 20;
+            this.btnUpdate.Size = new System.Drawing.Size(167, 42);
+            this.btnUpdate.TabIndex = 11;
+            this.btnUpdate.Text = "Update";
+            this.btnUpdate.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // btnAdd
+            // 
+            this.btnAdd.AnimationHoverSpeed = 0.07F;
+            this.btnAdd.AnimationSpeed = 0.03F;
+            this.btnAdd.BackColor = System.Drawing.Color.Transparent;
+            this.btnAdd.BaseColor = System.Drawing.Color.DarkOliveGreen;
+            this.btnAdd.BorderColor = System.Drawing.Color.Black;
+            this.btnAdd.CheckedBaseColor = System.Drawing.Color.Gray;
+            this.btnAdd.CheckedBorderColor = System.Drawing.Color.Black;
+            this.btnAdd.CheckedForeColor = System.Drawing.Color.White;
+            this.btnAdd.CheckedImage = ((System.Drawing.Image)(resources.GetObject("btnAdd.CheckedImage")));
+            this.btnAdd.CheckedLineColor = System.Drawing.Color.DimGray;
+            this.btnAdd.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.btnAdd.FocusedColor = System.Drawing.Color.Empty;
+            this.btnAdd.Font = new System.Drawing.Font("Corbel", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAdd.ForeColor = System.Drawing.Color.White;
+            this.btnAdd.Image = ((System.Drawing.Image)(resources.GetObject("btnAdd.Image")));
+            this.btnAdd.ImageSize = new System.Drawing.Size(20, 20);
+            this.btnAdd.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.btnAdd.Location = new System.Drawing.Point(243, 156);
+            this.btnAdd.Name = "btnAdd";
+            this.btnAdd.OnHoverBaseColor = System.Drawing.SystemColors.Highlight;
+            this.btnAdd.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.btnAdd.OnHoverForeColor = System.Drawing.Color.White;
+            this.btnAdd.OnHoverImage = null;
+            this.btnAdd.OnHoverLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.btnAdd.OnPressedColor = System.Drawing.Color.Black;
+            this.btnAdd.Radius = 20;
+            this.btnAdd.Size = new System.Drawing.Size(167, 42);
+            this.btnAdd.TabIndex = 7;
+            this.btnAdd.Text = "Add";
+            this.btnAdd.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // txtPassword
+            // 
+            this.txtPassword.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtPassword.Font = new System.Drawing.Font("Corbel", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPassword.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.txtPassword.HintForeColor = System.Drawing.Color.Empty;
+            this.txtPassword.HintText = "Password";
+            this.txtPassword.isPassword = false;
+            this.txtPassword.LineFocusedColor = System.Drawing.Color.Blue;
+            this.txtPassword.LineIdleColor = System.Drawing.Color.Gray;
+            this.txtPassword.LineMouseHoverColor = System.Drawing.Color.Blue;
+            this.txtPassword.LineThickness = 4;
+            this.txtPassword.Location = new System.Drawing.Point(960, 33);
+            this.txtPassword.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.txtPassword.Name = "txtPassword";
+            this.txtPassword.Size = new System.Drawing.Size(312, 34);
+            this.txtPassword.TabIndex = 7;
+            this.txtPassword.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            // 
+            // txtYearsOfExperience
+            // 
+            this.txtYearsOfExperience.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtYearsOfExperience.Font = new System.Drawing.Font("Corbel", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtYearsOfExperience.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.txtYearsOfExperience.HintForeColor = System.Drawing.Color.Empty;
+            this.txtYearsOfExperience.HintText = "Years Of Experience";
+            this.txtYearsOfExperience.isPassword = false;
+            this.txtYearsOfExperience.LineFocusedColor = System.Drawing.Color.Blue;
+            this.txtYearsOfExperience.LineIdleColor = System.Drawing.Color.Gray;
+            this.txtYearsOfExperience.LineMouseHoverColor = System.Drawing.Color.Blue;
+            this.txtYearsOfExperience.LineThickness = 4;
+            this.txtYearsOfExperience.Location = new System.Drawing.Point(588, 33);
+            this.txtYearsOfExperience.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.txtYearsOfExperience.Name = "txtYearsOfExperience";
+            this.txtYearsOfExperience.Size = new System.Drawing.Size(323, 34);
+            this.txtYearsOfExperience.TabIndex = 6;
+            this.txtYearsOfExperience.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            // 
+            // txtDoctorName
+            // 
+            this.txtDoctorName.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtDoctorName.Font = new System.Drawing.Font("Corbel", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtDoctorName.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.txtDoctorName.HintForeColor = System.Drawing.Color.Empty;
+            this.txtDoctorName.HintText = "Doctor Name";
+            this.txtDoctorName.isPassword = false;
+            this.txtDoctorName.LineFocusedColor = System.Drawing.Color.Blue;
+            this.txtDoctorName.LineIdleColor = System.Drawing.Color.Gray;
+            this.txtDoctorName.LineMouseHoverColor = System.Drawing.Color.Blue;
+            this.txtDoctorName.LineThickness = 4;
+            this.txtDoctorName.Location = new System.Drawing.Point(210, 33);
+            this.txtDoctorName.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.txtDoctorName.Name = "txtDoctorName";
+            this.txtDoctorName.Size = new System.Drawing.Size(339, 34);
+            this.txtDoctorName.TabIndex = 5;
+            this.txtDoctorName.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            // 
+            // txtDoctorId
+            // 
+            this.txtDoctorId.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtDoctorId.Font = new System.Drawing.Font("Corbel", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtDoctorId.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.txtDoctorId.HintForeColor = System.Drawing.Color.Empty;
+            this.txtDoctorId.HintText = "Doctor Id";
+            this.txtDoctorId.isPassword = false;
+            this.txtDoctorId.LineFocusedColor = System.Drawing.Color.Blue;
+            this.txtDoctorId.LineIdleColor = System.Drawing.Color.Gray;
+            this.txtDoctorId.LineMouseHoverColor = System.Drawing.Color.Blue;
+            this.txtDoctorId.LineThickness = 4;
+            this.txtDoctorId.Location = new System.Drawing.Point(14, 33);
+            this.txtDoctorId.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.txtDoctorId.Name = "txtDoctorId";
+            this.txtDoctorId.Size = new System.Drawing.Size(167, 34);
+            this.txtDoctorId.TabIndex = 4;
+            this.txtDoctorId.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            // 
+            // btnLogout
+            // 
+            this.btnLogout.AnimationHoverSpeed = 0.07F;
+            this.btnLogout.AnimationSpeed = 0.03F;
+            this.btnLogout.BaseColor = System.Drawing.Color.DarkOliveGreen;
+            this.btnLogout.BorderColor = System.Drawing.Color.Black;
+            this.btnLogout.CheckedBaseColor = System.Drawing.Color.Gray;
+            this.btnLogout.CheckedBorderColor = System.Drawing.Color.Black;
+            this.btnLogout.CheckedForeColor = System.Drawing.Color.White;
+            this.btnLogout.CheckedImage = ((System.Drawing.Image)(resources.GetObject("btnLogout.CheckedImage")));
+            this.btnLogout.CheckedLineColor = System.Drawing.Color.DimGray;
+            this.btnLogout.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.btnLogout.FocusedColor = System.Drawing.Color.Empty;
+            this.btnLogout.Font = new System.Drawing.Font("Corbel", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnLogout.ForeColor = System.Drawing.Color.White;
+            this.btnLogout.Image = ((System.Drawing.Image)(resources.GetObject("btnLogout.Image")));
+            this.btnLogout.ImageSize = new System.Drawing.Size(20, 20);
+            this.btnLogout.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.btnLogout.Location = new System.Drawing.Point(-10, 839);
+            this.btnLogout.Name = "btnLogout";
+            this.btnLogout.OnHoverBaseColor = System.Drawing.SystemColors.Highlight;
+            this.btnLogout.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.btnLogout.OnHoverForeColor = System.Drawing.Color.White;
+            this.btnLogout.OnHoverImage = null;
+            this.btnLogout.OnHoverLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.btnLogout.OnPressedColor = System.Drawing.Color.Black;
+            this.btnLogout.Size = new System.Drawing.Size(282, 42);
+            this.btnLogout.TabIndex = 6;
+            this.btnLogout.Text = "Logout";
+            this.btnLogout.Click += new System.EventHandler(this.btnLogout_Click);
+            // 
+            // btnMedicine
+            // 
+            this.btnMedicine.AnimationHoverSpeed = 0.07F;
+            this.btnMedicine.AnimationSpeed = 0.03F;
+            this.btnMedicine.BaseColor = System.Drawing.Color.DarkOliveGreen;
+            this.btnMedicine.BorderColor = System.Drawing.Color.Black;
+            this.btnMedicine.CheckedBaseColor = System.Drawing.Color.Gray;
+            this.btnMedicine.CheckedBorderColor = System.Drawing.Color.Black;
+            this.btnMedicine.CheckedForeColor = System.Drawing.Color.White;
+            this.btnMedicine.CheckedImage = ((System.Drawing.Image)(resources.GetObject("btnMedicine.CheckedImage")));
+            this.btnMedicine.CheckedLineColor = System.Drawing.Color.DimGray;
+            this.btnMedicine.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.btnMedicine.FocusedColor = System.Drawing.Color.Empty;
+            this.btnMedicine.Font = new System.Drawing.Font("Corbel", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnMedicine.ForeColor = System.Drawing.Color.White;
+            this.btnMedicine.Image = ((System.Drawing.Image)(resources.GetObject("btnMedicine.Image")));
+            this.btnMedicine.ImageSize = new System.Drawing.Size(20, 20);
+            this.btnMedicine.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.btnMedicine.Location = new System.Drawing.Point(3, 322);
+            this.btnMedicine.Name = "btnMedicine";
+            this.btnMedicine.OnHoverBaseColor = System.Drawing.SystemColors.Highlight;
+            this.btnMedicine.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.btnMedicine.OnHoverForeColor = System.Drawing.Color.White;
+            this.btnMedicine.OnHoverImage = null;
+            this.btnMedicine.OnHoverLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.btnMedicine.OnPressedColor = System.Drawing.Color.Black;
+            this.btnMedicine.Size = new System.Drawing.Size(269, 42);
+            this.btnMedicine.TabIndex = 5;
+            this.btnMedicine.Text = "Medicine";
+            this.btnMedicine.Click += new System.EventHandler(this.btnMedicine_Click);
+            // 
+            // btndiagnosis
+            // 
+            this.btndiagnosis.AnimationHoverSpeed = 0.07F;
+            this.btndiagnosis.AnimationSpeed = 0.03F;
+            this.btndiagnosis.BaseColor = System.Drawing.Color.DarkOliveGreen;
+            this.btndiagnosis.BorderColor = System.Drawing.Color.Black;
+            this.btndiagnosis.CheckedBaseColor = System.Drawing.Color.Gray;
+            this.btndiagnosis.CheckedBorderColor = System.Drawing.Color.Black;
+            this.btndiagnosis.CheckedForeColor = System.Drawing.Color.White;
+            this.btndiagnosis.CheckedImage = ((System.Drawing.Image)(resources.GetObject("btndiagnosis.CheckedImage")));
+            this.btndiagnosis.CheckedLineColor = System.Drawing.Color.DimGray;
+            this.btndiagnosis.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.btndiagnosis.FocusedColor = System.Drawing.Color.Empty;
+            this.btndiagnosis.Font = new System.Drawing.Font("Corbel", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btndiagnosis.ForeColor = System.Drawing.Color.White;
+            this.btndiagnosis.Image = ((System.Drawing.Image)(resources.GetObject("btndiagnosis.Image")));
+            this.btndiagnosis.ImageSize = new System.Drawing.Size(20, 20);
+            this.btndiagnosis.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.btndiagnosis.Location = new System.Drawing.Point(0, 256);
+            this.btndiagnosis.Name = "btndiagnosis";
+            this.btndiagnosis.OnHoverBaseColor = System.Drawing.SystemColors.Highlight;
+            this.btndiagnosis.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.btndiagnosis.OnHoverForeColor = System.Drawing.Color.White;
+            this.btndiagnosis.OnHoverImage = null;
+            this.btndiagnosis.OnHoverLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.btndiagnosis.OnPressedColor = System.Drawing.Color.Black;
+            this.btndiagnosis.Size = new System.Drawing.Size(275, 42);
+            this.btndiagnosis.TabIndex = 4;
+            this.btndiagnosis.Text = "Diagnosis";
+            this.btndiagnosis.Click += new System.EventHandler(this.btndiagnosis_Click);
+            // 
+            // btnPatient
+            // 
+            this.btnPatient.AnimationHoverSpeed = 0.07F;
+            this.btnPatient.AnimationSpeed = 0.03F;
+            this.btnPatient.BaseColor = System.Drawing.Color.DarkOliveGreen;
+            this.btnPatient.BorderColor = System.Drawing.Color.Black;
+            this.btnPatient.CheckedBaseColor = System.Drawing.Color.Gray;
+            this.btnPatient.CheckedBorderColor = System.Drawing.Color.Black;
+            this.btnPatient.CheckedForeColor = System.Drawing.Color.White;
+            this.btnPatient.CheckedImage = ((System.Drawing.Image)(resources.GetObject("btnPatient.CheckedImage")));
+            this.btnPatient.CheckedLineColor = System.Drawing.Color.DimGray;
+            this.btnPatient.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.btnPatient.FocusedColor = System.Drawing.Color.Empty;
+            this.btnPatient.Font = new System.Drawing.Font("Corbel", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPatient.ForeColor = System.Drawing.Color.White;
+            this.btnPatient.Image = ((System.Drawing.Image)(resources.GetObject("btnPatient.Image")));
+            this.btnPatient.ImageSize = new System.Drawing.Size(20, 20);
+            this.btnPatient.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.btnPatient.Location = new System.Drawing.Point(0, 192);
+            this.btnPatient.Name = "btnPatient";
+            this.btnPatient.OnHoverBaseColor = System.Drawing.SystemColors.Highlight;
+            this.btnPatient.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.btnPatient.OnHoverForeColor = System.Drawing.Color.White;
+            this.btnPatient.OnHoverImage = null;
+            this.btnPatient.OnHoverLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.btnPatient.OnPressedColor = System.Drawing.Color.Black;
+            this.btnPatient.Size = new System.Drawing.Size(272, 42);
+            this.btnPatient.TabIndex = 3;
+            this.btnPatient.Text = "Patients";
+            this.btnPatient.Click += new System.EventHandler(this.btnPatient_Click);
+            // 
+            // btnDoctors
+            // 
+            this.btnDoctors.AnimationHoverSpeed = 0.07F;
+            this.btnDoctors.AnimationSpeed = 0.03F;
+            this.btnDoctors.BaseColor = System.Drawing.Color.DarkOliveGreen;
+            this.btnDoctors.BorderColor = System.Drawing.Color.Black;
+            this.btnDoctors.CheckedBaseColor = System.Drawing.Color.Gray;
+            this.btnDoctors.CheckedBorderColor = System.Drawing.Color.Black;
+            this.btnDoctors.CheckedForeColor = System.Drawing.Color.White;
+            this.btnDoctors.CheckedImage = ((System.Drawing.Image)(resources.GetObject("btnDoctors.CheckedImage")));
+            this.btnDoctors.CheckedLineColor = System.Drawing.Color.DimGray;
+            this.btnDoctors.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.btnDoctors.FocusedColor = System.Drawing.Color.Empty;
+            this.btnDoctors.Font = new System.Drawing.Font("Corbel", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDoctors.ForeColor = System.Drawing.Color.White;
+            this.btnDoctors.Image = ((System.Drawing.Image)(resources.GetObject("btnDoctors.Image")));
+            this.btnDoctors.ImageSize = new System.Drawing.Size(20, 20);
+            this.btnDoctors.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.btnDoctors.Location = new System.Drawing.Point(3, 134);
+            this.btnDoctors.Name = "btnDoctors";
+            this.btnDoctors.OnHoverBaseColor = System.Drawing.SystemColors.Highlight;
+            this.btnDoctors.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.btnDoctors.OnHoverForeColor = System.Drawing.Color.White;
+            this.btnDoctors.OnHoverImage = null;
+            this.btnDoctors.OnHoverLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.btnDoctors.OnPressedColor = System.Drawing.Color.Black;
+            this.btnDoctors.Size = new System.Drawing.Size(272, 42);
+            this.btnDoctors.TabIndex = 2;
+            this.btnDoctors.Text = "Doctors";
+            this.btnDoctors.Click += new System.EventHandler(this.btnDoctors_Click);
+            // 
+            // panel2
+            // 
+            this.panel2.BackColor = System.Drawing.Color.White;
+            this.panel2.Controls.Add(this.pictureBox1);
+            this.panel2.Controls.Add(this.close);
+            this.panel2.Controls.Add(this.label1);
+            this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel2.Location = new System.Drawing.Point(275, 0);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(1404, 88);
+            this.panel2.TabIndex = 3;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackColor = System.Drawing.Color.White;
+            this.pictureBox1.ErrorImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.ErrorImage")));
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(1, 1);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(136, 85);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 4;
+            this.pictureBox1.TabStop = false;
+            // 
+            // close
+            // 
+            this.close.Image = ((System.Drawing.Image)(resources.GetObject("close.Image")));
+            this.close.Location = new System.Drawing.Point(1360, 0);
+            this.close.Name = "close";
+            this.close.Size = new System.Drawing.Size(41, 37);
+            this.close.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.close.TabIndex = 8;
+            this.close.TabStop = false;
+            this.close.Click += new System.EventHandler(this.close_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Corbel", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(413, 20);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(482, 37);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "HOSPITAL MANAGEMENT SYSTEM";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("MS Reference Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(880, 368);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(139, 23);
+            this.label3.TabIndex = 16;
+            this.label3.Text = "Vehicle\'s List";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Corbel", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(313, 116);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(116, 18);
+            this.label2.TabIndex = 15;
+            this.label2.Text = "Medicine Details";
+            // 
+            // panel4
+            // 
+            this.panel4.Controls.Add(this.txtDriverNumber);
+            this.panel4.Controls.Add(this.CbVehicleType);
+            this.panel4.Controls.Add(this.txtDriverName);
+            this.panel4.Controls.Add(this.gunaAdvenceButton2);
+            this.panel4.Controls.Add(this.btnDel);
+            this.panel4.Controls.Add(this.gunaAdvenceButton4);
+            this.panel4.Controls.Add(this.gunaAdvenceButton5);
+            this.panel4.Controls.Add(this.txtVehicleId);
+            this.panel4.Location = new System.Drawing.Point(294, 126);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(1361, 222);
+            this.panel4.TabIndex = 14;
+            // 
+            // txtDriverNumber
+            // 
+            this.txtDriverNumber.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtDriverNumber.Font = new System.Drawing.Font("Corbel", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtDriverNumber.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.txtDriverNumber.HintForeColor = System.Drawing.Color.Empty;
+            this.txtDriverNumber.HintText = "Driver Number";
+            this.txtDriverNumber.isPassword = false;
+            this.txtDriverNumber.LineFocusedColor = System.Drawing.Color.Blue;
+            this.txtDriverNumber.LineIdleColor = System.Drawing.Color.Gray;
+            this.txtDriverNumber.LineMouseHoverColor = System.Drawing.Color.Blue;
+            this.txtDriverNumber.LineThickness = 4;
+            this.txtDriverNumber.Location = new System.Drawing.Point(590, 33);
+            this.txtDriverNumber.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.txtDriverNumber.Name = "txtDriverNumber";
+            this.txtDriverNumber.Size = new System.Drawing.Size(323, 34);
+            this.txtDriverNumber.TabIndex = 18;
+            this.txtDriverNumber.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            // 
+            // CbVehicleType
+            // 
+            this.CbVehicleType.Font = new System.Drawing.Font("Corbel", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CbVehicleType.FormattingEnabled = true;
+            this.CbVehicleType.Items.AddRange(new object[] {
+            "Ambulance",
+            "Truck"});
+            this.CbVehicleType.Location = new System.Drawing.Point(973, 35);
+            this.CbVehicleType.Name = "CbVehicleType";
+            this.CbVehicleType.Size = new System.Drawing.Size(339, 32);
+            this.CbVehicleType.TabIndex = 15;
+            this.CbVehicleType.Text = "Select Vehicle Type";
+            // 
+            // txtDriverName
+            // 
+            this.txtDriverName.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtDriverName.Font = new System.Drawing.Font("Corbel", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtDriverName.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.txtDriverName.HintForeColor = System.Drawing.Color.Empty;
+            this.txtDriverName.HintText = "Driver Name";
+            this.txtDriverName.isPassword = false;
+            this.txtDriverName.LineFocusedColor = System.Drawing.Color.Blue;
+            this.txtDriverName.LineIdleColor = System.Drawing.Color.Gray;
+            this.txtDriverName.LineMouseHoverColor = System.Drawing.Color.Blue;
+            this.txtDriverName.LineThickness = 4;
+            this.txtDriverName.Location = new System.Drawing.Point(227, 33);
+            this.txtDriverName.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.txtDriverName.Name = "txtDriverName";
+            this.txtDriverName.Size = new System.Drawing.Size(323, 34);
+            this.txtDriverName.TabIndex = 13;
+            this.txtDriverName.Text = "DriverName";
+            this.txtDriverName.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            // 
+            // gunaAdvenceButton2
+            // 
+            this.gunaAdvenceButton2.AnimationHoverSpeed = 0.07F;
+            this.gunaAdvenceButton2.AnimationSpeed = 0.03F;
+            this.gunaAdvenceButton2.BackColor = System.Drawing.Color.Transparent;
+            this.gunaAdvenceButton2.BaseColor = System.Drawing.Color.DarkOliveGreen;
+            this.gunaAdvenceButton2.BorderColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton2.CheckedBaseColor = System.Drawing.Color.Gray;
+            this.gunaAdvenceButton2.CheckedBorderColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton2.CheckedForeColor = System.Drawing.Color.White;
+            this.gunaAdvenceButton2.CheckedImage = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceButton2.CheckedImage")));
+            this.gunaAdvenceButton2.CheckedLineColor = System.Drawing.Color.DimGray;
+            this.gunaAdvenceButton2.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.gunaAdvenceButton2.FocusedColor = System.Drawing.Color.Empty;
+            this.gunaAdvenceButton2.Font = new System.Drawing.Font("Corbel", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.gunaAdvenceButton2.ForeColor = System.Drawing.Color.White;
+            this.gunaAdvenceButton2.Image = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceButton2.Image")));
+            this.gunaAdvenceButton2.ImageSize = new System.Drawing.Size(20, 20);
+            this.gunaAdvenceButton2.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.gunaAdvenceButton2.Location = new System.Drawing.Point(857, 138);
+            this.gunaAdvenceButton2.Name = "gunaAdvenceButton2";
+            this.gunaAdvenceButton2.OnHoverBaseColor = System.Drawing.SystemColors.Highlight;
+            this.gunaAdvenceButton2.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton2.OnHoverForeColor = System.Drawing.Color.White;
+            this.gunaAdvenceButton2.OnHoverImage = null;
+            this.gunaAdvenceButton2.OnHoverLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.gunaAdvenceButton2.OnPressedColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton2.Radius = 20;
+            this.gunaAdvenceButton2.Size = new System.Drawing.Size(167, 42);
+            this.gunaAdvenceButton2.TabIndex = 9;
+            this.gunaAdvenceButton2.Text = "Reload";
+            this.gunaAdvenceButton2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // btnDel
+            // 
+            this.btnDel.AnimationHoverSpeed = 0.07F;
+            this.btnDel.AnimationSpeed = 0.03F;
+            this.btnDel.BackColor = System.Drawing.Color.Transparent;
+            this.btnDel.BaseColor = System.Drawing.Color.DarkOliveGreen;
+            this.btnDel.BorderColor = System.Drawing.Color.Black;
+            this.btnDel.CheckedBaseColor = System.Drawing.Color.Gray;
+            this.btnDel.CheckedBorderColor = System.Drawing.Color.Black;
+            this.btnDel.CheckedForeColor = System.Drawing.Color.White;
+            this.btnDel.CheckedImage = ((System.Drawing.Image)(resources.GetObject("btnDel.CheckedImage")));
+            this.btnDel.CheckedLineColor = System.Drawing.Color.DimGray;
+            this.btnDel.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.btnDel.FocusedColor = System.Drawing.Color.Empty;
+            this.btnDel.Font = new System.Drawing.Font("Corbel", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDel.ForeColor = System.Drawing.Color.White;
+            this.btnDel.Image = ((System.Drawing.Image)(resources.GetObject("btnDel.Image")));
+            this.btnDel.ImageSize = new System.Drawing.Size(20, 20);
+            this.btnDel.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.btnDel.Location = new System.Drawing.Point(650, 138);
+            this.btnDel.Name = "btnDel";
+            this.btnDel.OnHoverBaseColor = System.Drawing.SystemColors.Highlight;
+            this.btnDel.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.btnDel.OnHoverForeColor = System.Drawing.Color.White;
+            this.btnDel.OnHoverImage = null;
+            this.btnDel.OnHoverLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.btnDel.OnPressedColor = System.Drawing.Color.Black;
+            this.btnDel.Radius = 20;
+            this.btnDel.Size = new System.Drawing.Size(167, 42);
+            this.btnDel.TabIndex = 10;
+            this.btnDel.Text = "Delete";
+            this.btnDel.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.btnDel.Click += new System.EventHandler(this.btnDel_Click);
+            // 
+            // gunaAdvenceButton4
+            // 
+            this.gunaAdvenceButton4.AnimationHoverSpeed = 0.07F;
+            this.gunaAdvenceButton4.AnimationSpeed = 0.03F;
+            this.gunaAdvenceButton4.BackColor = System.Drawing.Color.Transparent;
+            this.gunaAdvenceButton4.BaseColor = System.Drawing.Color.DarkOliveGreen;
+            this.gunaAdvenceButton4.BorderColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton4.CheckedBaseColor = System.Drawing.Color.Gray;
+            this.gunaAdvenceButton4.CheckedBorderColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton4.CheckedForeColor = System.Drawing.Color.White;
+            this.gunaAdvenceButton4.CheckedImage = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceButton4.CheckedImage")));
+            this.gunaAdvenceButton4.CheckedLineColor = System.Drawing.Color.DimGray;
+            this.gunaAdvenceButton4.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.gunaAdvenceButton4.FocusedColor = System.Drawing.Color.Empty;
+            this.gunaAdvenceButton4.Font = new System.Drawing.Font("Corbel", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.gunaAdvenceButton4.ForeColor = System.Drawing.Color.White;
+            this.gunaAdvenceButton4.Image = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceButton4.Image")));
+            this.gunaAdvenceButton4.ImageSize = new System.Drawing.Size(20, 20);
+            this.gunaAdvenceButton4.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.gunaAdvenceButton4.Location = new System.Drawing.Point(452, 138);
+            this.gunaAdvenceButton4.Name = "gunaAdvenceButton4";
+            this.gunaAdvenceButton4.OnHoverBaseColor = System.Drawing.SystemColors.Highlight;
+            this.gunaAdvenceButton4.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton4.OnHoverForeColor = System.Drawing.Color.White;
+            this.gunaAdvenceButton4.OnHoverImage = null;
+            this.gunaAdvenceButton4.OnHoverLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.gunaAdvenceButton4.OnPressedColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton4.Radius = 20;
+            this.gunaAdvenceButton4.Size = new System.Drawing.Size(167, 42);
+            this.gunaAdvenceButton4.TabIndex = 11;
+            this.gunaAdvenceButton4.Text = "Update";
+            this.gunaAdvenceButton4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.gunaAdvenceButton4.Click += new System.EventHandler(this.gunaAdvenceButton4_Click);
+            // 
+            // gunaAdvenceButton5
+            // 
+            this.gunaAdvenceButton5.AnimationHoverSpeed = 0.07F;
+            this.gunaAdvenceButton5.AnimationSpeed = 0.03F;
+            this.gunaAdvenceButton5.BackColor = System.Drawing.Color.Transparent;
+            this.gunaAdvenceButton5.BaseColor = System.Drawing.Color.DarkOliveGreen;
+            this.gunaAdvenceButton5.BorderColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton5.CheckedBaseColor = System.Drawing.Color.Gray;
+            this.gunaAdvenceButton5.CheckedBorderColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton5.CheckedForeColor = System.Drawing.Color.White;
+            this.gunaAdvenceButton5.CheckedImage = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceButton5.CheckedImage")));
+            this.gunaAdvenceButton5.CheckedLineColor = System.Drawing.Color.DimGray;
+            this.gunaAdvenceButton5.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.gunaAdvenceButton5.FocusedColor = System.Drawing.Color.Empty;
+            this.gunaAdvenceButton5.Font = new System.Drawing.Font("Corbel", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.gunaAdvenceButton5.ForeColor = System.Drawing.Color.White;
+            this.gunaAdvenceButton5.Image = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceButton5.Image")));
+            this.gunaAdvenceButton5.ImageSize = new System.Drawing.Size(20, 20);
+            this.gunaAdvenceButton5.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.gunaAdvenceButton5.Location = new System.Drawing.Point(243, 138);
+            this.gunaAdvenceButton5.Name = "gunaAdvenceButton5";
+            this.gunaAdvenceButton5.OnHoverBaseColor = System.Drawing.SystemColors.Highlight;
+            this.gunaAdvenceButton5.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton5.OnHoverForeColor = System.Drawing.Color.White;
+            this.gunaAdvenceButton5.OnHoverImage = null;
+            this.gunaAdvenceButton5.OnHoverLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.gunaAdvenceButton5.OnPressedColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton5.Radius = 20;
+            this.gunaAdvenceButton5.Size = new System.Drawing.Size(167, 42);
+            this.gunaAdvenceButton5.TabIndex = 7;
+            this.gunaAdvenceButton5.Text = "Add";
+            this.gunaAdvenceButton5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.gunaAdvenceButton5.Click += new System.EventHandler(this.gunaAdvenceButton5_Click);
+            // 
+            // txtVehicleId
+            // 
+            this.txtVehicleId.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtVehicleId.Font = new System.Drawing.Font("Corbel", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtVehicleId.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.txtVehicleId.HintForeColor = System.Drawing.Color.Empty;
+            this.txtVehicleId.HintText = "Vehicle Id";
+            this.txtVehicleId.isPassword = false;
+            this.txtVehicleId.LineFocusedColor = System.Drawing.Color.Blue;
+            this.txtVehicleId.LineIdleColor = System.Drawing.Color.Gray;
+            this.txtVehicleId.LineMouseHoverColor = System.Drawing.Color.Blue;
+            this.txtVehicleId.LineThickness = 4;
+            this.txtVehicleId.Location = new System.Drawing.Point(14, 33);
+            this.txtVehicleId.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.txtVehicleId.Name = "txtVehicleId";
+            this.txtVehicleId.Size = new System.Drawing.Size(167, 34);
+            this.txtVehicleId.TabIndex = 4;
+            this.txtVehicleId.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            // 
+            // DGVVehicles
+            // 
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.White;
+            this.DGVVehicles.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
+            this.DGVVehicles.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.DGVVehicles.BackgroundColor = System.Drawing.Color.White;
+            this.DGVVehicles.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.DGVVehicles.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleHorizontal;
+            this.DGVVehicles.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Corbel", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.DGVVehicles.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
+            this.DGVVehicles.ColumnHeadersHeight = 30;
+            this.DGVVehicles.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Corbel", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.DGVVehicles.DefaultCellStyle = dataGridViewCellStyle3;
+            this.DGVVehicles.EnableHeadersVisualStyles = false;
+            this.DGVVehicles.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
+            this.DGVVehicles.Location = new System.Drawing.Point(289, 406);
+            this.DGVVehicles.Name = "DGVVehicles";
+            this.DGVVehicles.RowHeadersVisible = false;
+            this.DGVVehicles.RowHeadersWidth = 51;
+            this.DGVVehicles.RowTemplate.Height = 24;
+            this.DGVVehicles.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.DGVVehicles.Size = new System.Drawing.Size(1361, 463);
+            this.DGVVehicles.TabIndex = 17;
+            this.DGVVehicles.Theme = Guna.UI.WinForms.GunaDataGridViewPresetThemes.Guna;
+            this.DGVVehicles.ThemeStyle.AlternatingRowsStyle.BackColor = System.Drawing.Color.White;
+            this.DGVVehicles.ThemeStyle.AlternatingRowsStyle.Font = null;
+            this.DGVVehicles.ThemeStyle.AlternatingRowsStyle.ForeColor = System.Drawing.Color.Empty;
+            this.DGVVehicles.ThemeStyle.AlternatingRowsStyle.SelectionBackColor = System.Drawing.Color.Empty;
+            this.DGVVehicles.ThemeStyle.AlternatingRowsStyle.SelectionForeColor = System.Drawing.Color.Empty;
+            this.DGVVehicles.ThemeStyle.BackColor = System.Drawing.Color.White;
+            this.DGVVehicles.ThemeStyle.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
+            this.DGVVehicles.ThemeStyle.HeaderStyle.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
+            this.DGVVehicles.ThemeStyle.HeaderStyle.BorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
+            this.DGVVehicles.ThemeStyle.HeaderStyle.Font = new System.Drawing.Font("Corbel", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.DGVVehicles.ThemeStyle.HeaderStyle.ForeColor = System.Drawing.Color.White;
+            this.DGVVehicles.ThemeStyle.HeaderStyle.HeaightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
+            this.DGVVehicles.ThemeStyle.HeaderStyle.Height = 30;
+            this.DGVVehicles.ThemeStyle.ReadOnly = false;
+            this.DGVVehicles.ThemeStyle.RowsStyle.BackColor = System.Drawing.Color.White;
+            this.DGVVehicles.ThemeStyle.RowsStyle.BorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleHorizontal;
+            this.DGVVehicles.ThemeStyle.RowsStyle.Font = new System.Drawing.Font("Corbel", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.DGVVehicles.ThemeStyle.RowsStyle.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
+            this.DGVVehicles.ThemeStyle.RowsStyle.Height = 24;
+            this.DGVVehicles.ThemeStyle.RowsStyle.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
+            this.DGVVehicles.ThemeStyle.RowsStyle.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
+            this.DGVVehicles.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DGVVehicles_CellContentClick);
+            // 
+            // gunaAdvenceButton6
+            // 
+            this.gunaAdvenceButton6.AnimationHoverSpeed = 0.07F;
+            this.gunaAdvenceButton6.AnimationSpeed = 0.03F;
+            this.gunaAdvenceButton6.BaseColor = System.Drawing.Color.DarkOliveGreen;
+            this.gunaAdvenceButton6.BorderColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton6.CheckedBaseColor = System.Drawing.Color.Gray;
+            this.gunaAdvenceButton6.CheckedBorderColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton6.CheckedForeColor = System.Drawing.Color.White;
+            this.gunaAdvenceButton6.CheckedImage = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceButton6.CheckedImage")));
+            this.gunaAdvenceButton6.CheckedLineColor = System.Drawing.Color.DimGray;
+            this.gunaAdvenceButton6.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.gunaAdvenceButton6.FocusedColor = System.Drawing.Color.Empty;
+            this.gunaAdvenceButton6.Font = new System.Drawing.Font("Corbel", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.gunaAdvenceButton6.ForeColor = System.Drawing.Color.White;
+            this.gunaAdvenceButton6.Image = ((System.Drawing.Image)(resources.GetObject("gunaAdvenceButton6.Image")));
+            this.gunaAdvenceButton6.ImageSize = new System.Drawing.Size(20, 20);
+            this.gunaAdvenceButton6.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.gunaAdvenceButton6.Location = new System.Drawing.Point(0, 496);
+            this.gunaAdvenceButton6.Name = "gunaAdvenceButton6";
+            this.gunaAdvenceButton6.OnHoverBaseColor = System.Drawing.SystemColors.Highlight;
+            this.gunaAdvenceButton6.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton6.OnHoverForeColor = System.Drawing.Color.White;
+            this.gunaAdvenceButton6.OnHoverImage = null;
+            this.gunaAdvenceButton6.OnHoverLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(58)))), ((int)(((byte)(170)))));
+            this.gunaAdvenceButton6.OnPressedColor = System.Drawing.Color.Black;
+            this.gunaAdvenceButton6.Size = new System.Drawing.Size(269, 42);
+            this.gunaAdvenceButton6.TabIndex = 18;
+            this.gunaAdvenceButton6.Text = "Maintenance";
+            this.gunaAdvenceButton6.Click += new System.EventHandler(this.gunaAdvenceButton6_Click);
+            // 
+            // Vehicles
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
+            this.ClientSize = new System.Drawing.Size(1679, 881);
+            this.Controls.Add(this.DGVVehicles);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.panel4);
+            this.Controls.Add(this.panel2);
+            this.Controls.Add(this.panel1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Name = "Vehicles";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Vehicles";
+            this.Load += new System.EventHandler(this.Vehicles_Load);
+            this.panel1.ResumeLayout(false);
+            this.panel3.ResumeLayout(false);
+            this.panel2.ResumeLayout(false);
+            this.panel2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.close)).EndInit();
+            this.panel4.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.DGVVehicles)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Panel panel1;
+        private Guna.UI.WinForms.GunaAdvenceButton gunaAdvenceButton1;
+        private System.Windows.Forms.Panel panel3;
+        private Guna.UI.WinForms.GunaAdvenceButton btnReload;
+        private Guna.UI.WinForms.GunaAdvenceButton btnDelete;
+        private Guna.UI.WinForms.GunaAdvenceButton btnUpdate;
+        private Guna.UI.WinForms.GunaAdvenceButton btnAdd;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtPassword;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtYearsOfExperience;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtDoctorName;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtDoctorId;
+        private Guna.UI.WinForms.GunaAdvenceButton btnLogout;
+        private Guna.UI.WinForms.GunaAdvenceButton btnMedicine;
+        private Guna.UI.WinForms.GunaAdvenceButton btndiagnosis;
+        private Guna.UI.WinForms.GunaAdvenceButton btnPatient;
+        private Guna.UI.WinForms.GunaAdvenceButton btnDoctors;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox close;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Panel panel4;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtDriverName;
+        private Guna.UI.WinForms.GunaAdvenceButton gunaAdvenceButton2;
+        private Guna.UI.WinForms.GunaAdvenceButton btnDel;
+        private Guna.UI.WinForms.GunaAdvenceButton gunaAdvenceButton4;
+        private Guna.UI.WinForms.GunaAdvenceButton gunaAdvenceButton5;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtVehicleId;
+        private Guna.UI.WinForms.GunaDataGridView DGVVehicles;
+        private System.Windows.Forms.ComboBox CbVehicleType;
+        private Bunifu.Framework.UI.BunifuMaterialTextbox txtDriverNumber;
+        private Guna.UI.WinForms.GunaAdvenceButton gunaAdvenceButton3;
+        private Guna.UI.WinForms.GunaAdvenceButton gunaAdvenceButton6;
+    }
+}
