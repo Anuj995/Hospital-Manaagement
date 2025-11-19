@@ -1,0 +1,65 @@
+/* Custom CSS for Hospital Management System */
+
+body {
+    overflow-x: hidden;
+    background-color: #f8f9fa; /* Light background for the overall app */
+}
+
+/* --- Sidebar Styling --- */
+#sidebar-wrapper {
+    min-height: 100vh;
+    margin-left: -15rem;
+    transition: margin 0.25s ease-out;
+}
+
+#sidebar-wrapper .sidebar-heading {
+    padding: 0.875rem 1.25rem;
+    font-size: 1.2rem;
+    color: white;
+    border-bottom: 1px solid #343a40; /* Default dark border */
+}
+
+#sidebar-wrapper .list-group {
+    width: 15rem;
+}
+
+#page-content-wrapper {
+    min-width: 100vw;
+}
+
+#wrapper.toggled #sidebar-wrapper {
+    margin-left: 0;
+}
+
+/* Dashboard Content Styling */
+.card {
+    border-radius: 0.5rem;
+}
+
+.card-footer a.stretched-link {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Customizing list-group active color for the dark sidebar */
+.list-group-item-dark.active {
+    background-color: #0d6efd !important; /* Bootstrap Primary Blue */
+    border-color: #0d6efd !important;
+    color: white !important;
+}
+
+/* Media Queries for Responsive Design */
+@media (min-width: 768px) {
+    #sidebar-wrapper {
+        margin-left: 0;
+    }
+
+    #page-content-wrapper {
+        min-width: 0;
+        width: 100%;
+    }
+
+    #wrapper.toggled #sidebar-wrapper {
+        margin-left: -15rem;
+    }
+}
